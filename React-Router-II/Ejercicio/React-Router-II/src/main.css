@@ -1,0 +1,15 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+
+.menu {
+    color: #2ad3d3;
+    margin-right: 15px;
+    text-decoration: none;
+
+}
+
+.activo {
+    color: rgb(220, 233, 233);
+    text-decoration: none;
+    margin-right: 15px;
+    font-weight: 700;
+}
